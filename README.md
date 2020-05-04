@@ -2,6 +2,8 @@
 
 Comparativo de preço entre Alcool e Gasolina
 
+Curso de Flutter do André Baltieri: https://app.balta.io/courses/7192
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
